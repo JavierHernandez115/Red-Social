@@ -1,0 +1,134 @@
+form .Avatar{
+    display: block;
+    width:100px !Important;
+    margin-bottom: 15px;
+}
+
+.navbar .AvatarContainer, .UserPub .AvatarContainer{
+    width: 35px;
+    height: 35px;
+    border-radius: 900px;
+    overflow: hidden;
+    border-radius: 900px;
+    margin-left: 15px;
+    margin-top: 4px;
+}
+.UserPub{
+    margin-bottom: 20px;
+}
+
+.UserPub .UserData{
+    font-weight: bold;
+}
+
+.UserPub .AvatarContainer{
+    float: left;
+    margin-right: 15px;
+}
+
+.UserPub .UserName{
+    line-height: 37px;
+}
+.UserPub .Nick{
+    color: gray;
+}
+.AvatarContainer img{
+    width: 100%;
+    height: 100%;
+}
+
+.UserPub .PubImage{
+    width: 100%;
+    overflow: hidden;
+}
+
+.UserPub .PubImage img{
+    width: 100%;
+}
+
+.UserPub .card-body{
+    padding: 0px;
+}
+
+.UserPub .Description{
+    padding: 20px;
+
+}
+
+.Comments{
+    margin: 20px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.Likes{
+    float: left;
+    padding-left:20px;
+    padding-right: 10px;
+    margin-right: 20px;
+}
+.Likes img{
+    width: 30px;
+}
+
+.UserPubDetails .Comments{
+    padding: 30px;
+}
+
+.CommentsContent{
+    padding: 20px;
+}
+
+.CommentsContent .Description{
+    padding: 0px;
+}
+
+.CountLikes{
+    color: gray;
+    font-size: 13px;
+}
+.ClearProfile{
+    margin-bottom: 60px;
+}
+.ProfileUser .AvatarContainer{
+    width: 250px;
+    height: 250px;
+    border-radius: 900px;
+    overflow: hidden;
+    float: left;
+    margin-right: 20px;
+}
+
+.ProfileUser .AvatarContainer img{
+    height: 100%;
+    width: 100%;
+}
+
+.ProfileData{
+    padding-top: 48px;
+}
+
+.UserName a{
+    text-decoration: none;
+    color:#444444;
+}
+
+.Actions{
+    color: white;
+    margin-left: 90px;
+}
+
+.AllProfiles{
+    margin-top:50px; 
+}
+
+.ProfileUser a{
+    text-decoration: none;
+    color:#444444;
+}
+
+
+
+
+
+
